@@ -45,6 +45,13 @@
 
 #### 11. [上海公共服务平台]( http://rsj.sh.gov.cn/201712333/index.shtml)：http://rsj.sh.gov.cn/201712333/index.shtml
 
+#### 12. 相关政策
+> 1. [五年三倍有效期延至 有效期至2022年10月31日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
+>
+> 2. [国内人才引 沪人社力发〔2015〕41号](http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0
+>
+> 3. [持有〈上海市居住证〉人员申办本市常住户口办法实施细则 沪府规〔2019〕45号](https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
+
 ### 专户注意事项：
 > 1.  户口迁入地，比如顾村派出所/顾村镇派出所
 >
