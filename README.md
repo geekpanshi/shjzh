@@ -7,18 +7,21 @@
 > 查看自己的档案信息：如果有，会有名称和地址的 [链接](http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg)： http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg
 
 #### 2.  一网通办系统居转户填写攻略
-> [上](http://tieba.baidu.com/p/6296648865?red_tag=r1629731236) http://tieba.baidu.com/p/6296648865?red_tag=r1629731236
+> 1. [上](http://tieba.baidu.com/p/6296648865?red_tag=r1629731236) http://tieba.baidu.com/p/6296648865?red_tag=r1629731236
 >
-> [下](http://tieba.baidu.com/p/6299195426?red_tag=v1648826914) http://tieba.baidu.com/p/6299195426?red_tag=v1648826914
+> 2. [下](http://tieba.baidu.com/p/6299195426?red_tag=v1648826914) http://tieba.baidu.com/p/6299195426?red_tag=v1648826914
 
 #### 3. 个税查询
-> [2018 年及之前的个税查询](https://etax.shanghai.chinatax.gov.cn/)：https://etax.shanghai.chinatax.gov.cn/
-> [2019 年及以后的个税查询](https://its.shanghai.chinatax.gov.cn/)：https://its.shanghai.chinatax.gov.cn/
+> 1. [2018 年及之前的个税查询](https://etax.shanghai.chinatax.gov.cn/)：https://etax.shanghai.chinatax.gov.cn/
+>
+> 2. [2019 年及以后的个税查询](https://its.shanghai.chinatax.gov.cn/)：https://its.shanghai.chinatax.gov.cn/
 
 #### 4. 社保查询
-> [最近两年社保查询](http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp)： http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp
+> 1. [最近两年社保查询](http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp)： http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp
 >
-> 社保缴费基数查询：上海人社 app，流程：登录 --> 业务经办 --> （首次登录需要安装证书和设置密码） --> 输入密码登录 --> 社会保险 --> 城保缴费查询（养老保险缴费情况查询）
+> 2. 社保缴费基数查询
+>>
+>> 上海人社 app，流程：登录 --> 业务经办 --> （首次登录需要安装证书和设置密码） --> 输入密码登录 --> 社会保险 --> 城保缴费查询（养老保险缴费情况查询）
 
 #### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
