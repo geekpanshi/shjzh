@@ -37,6 +37,8 @@
 > 2. [《上海市居住证》积分情况查询](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/query_score.jsp)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/query_score.jsp
 >
 > 3. [居住证模拟打分](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/index.jsp)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/index.jsp
+>
+> 4. [浦东人才服务](http://www.pdrcfw.com/)：http://www.pdrcfw.com/
 
 #### 10. 居住证申报系统
 > 1. [居住证申报系统](https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.jsp)：https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.jsp
