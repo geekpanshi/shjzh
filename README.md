@@ -48,16 +48,16 @@
 #### 11. [上海公共服务平台]( http://rsj.sh.gov.cn/201712333/index.shtml)：http://rsj.sh.gov.cn/201712333/index.shtml
 
 #### 12. 相关政策
-> 1. [五年三倍有效期延至 有效期至2022年10月31日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
+> 1. [五年三倍有效期延至 有效期至 2022 年 10 月 31 日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
 >
-> 2. [国内人才引 沪人社力发〔2015〕41号](http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0
+> 2. [国内人才引 沪人社力发〔2015〕41 号](http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0
 >
-> 3. [持有〈上海市居住证〉人员申办本市常住户口办法实施细则 沪府规〔2019〕45号](https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
+> 3. [持有〈上海市居住证〉人员申办本市常住户口办法实施细则 沪府规〔2019〕45 号](https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
 >
-> 4. [关于印发《持有〈上海市居住证〉人员申办本市常住户口办法实施细则》的通知沪人社规〔2020〕1号](http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
+> 4. [关于印发《持有〈上海市居住证〉人员申办本市常住户口办法实施细则》的通知沪人社规〔2020〕1 号](http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
 
-### 专户注意事项：
-> 1.  户口迁入地，比如顾村派出所/顾村镇派出所
+### 专户注意事项
+> 1.  户口迁入地，比如：顾村派出所/顾村镇派出所
 >
 > 2.  以职称申报的，请在申请报告公函内的个人信息处，补充申请人具体的岗位描述及工作内容。
 >
@@ -71,10 +71,10 @@
 >
 > 7.  “申请人有自行申报，单位是否知晓？请单位出具知晓承诺并继续申报居转户的承诺函”，请单位出具知晓承诺并继续申报居转户的承诺函。-本单位已知晓承诺并继续为其申报居转户。
 >
-> 8.  落户、迁入地址请按房产证完整填写，填写范例：XX区XXX路XX号XX室（无需填写上海市），落户派出所请于迁入地所在公安局确认派出所名称，填写范例：XX派出所，无需填写XX公安局。
+> 8.  落户、迁入地址请按房产证完整填写，填写范例：XX 区 XXX 路 XX 号 XX 室（无需填写上海市），落户派出所请于迁入地所在公安局确认派出所名称，填写范例：XX 派出所，无需填写 XX 公安局。
 >
-> 9.  户口迁出地地址请按户口本从省市开始填写，填写范例：XX市XX区XX路XX号XX室，迁出派出所请按户口本主页公安局公章填写，范例：XX公安局XX派出所
+> 9.  户口迁出地地址请按户口本从省市开始填写，填写范例：XX 市 XX 区 XX 路 XX 号 XX 室，迁出派出所请按户口本主页公安局公章填写，范例：XX 公安局 XX 派出所
 >
-> 10. 专业技术职务任职资格中专业按证书填写，聘任表中“聘任专业技术职务名称（级别）“一栏请填”工程师（中级）“。
+> 10. 专业技术职务任职资格中专业按证书填写，聘任表中“聘任专业技术职务名称（级别）“一栏请填”工程师（中级）”。
 >
 > 11. 落户的所有需要的材料，信息都必须是正确的、最新的，尤其是户口本、身份证、居住证的。
