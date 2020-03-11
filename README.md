@@ -1,37 +1,37 @@
-#### 上海居转户相关材料和网址
+### 上海居转户相关材料和网址
 
 ---
 
-##### 相关网址
-###### 1. 档案信息
+#### 相关网址
+##### 1. 档案信息
 > 查看自己的档案信息：如果有，会有名称和地址的 [链接](http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg)： http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg
 
-###### 2.  一网通办系统居转户填写攻略
+##### 2.  一网通办系统居转户填写攻略
 > 1. [上](http://tieba.baidu.com/p/6296648865?red_tag=r1629731236) http://tieba.baidu.com/p/6296648865?red_tag=r1629731236
 >
 > 2. [下](http://tieba.baidu.com/p/6299195426?red_tag=v1648826914) http://tieba.baidu.com/p/6299195426?red_tag=v1648826914
 
-###### 3. 个税查询
+##### 3. 个税查询
 > 1. [2018 年及之前的个税查询](https://etax.shanghai.chinatax.gov.cn/)：https://etax.shanghai.chinatax.gov.cn/
 >
 > 2. [2019 年及以后的个税查询](https://its.shanghai.chinatax.gov.cn/)：https://its.shanghai.chinatax.gov.cn/
 
-###### 4. 社保查询
+##### 4. 社保查询
 > 1. [最近两年社保查询](http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp)： http://rsj.sh.gov.cn/sbsjb/wzb/226.jsp
 >
 > 2. 社保缴费基数查询
 >>
 >> 上海人社 app，流程：登录 --> 业务经办 --> （首次登录需要安装证书和设置密码） --> 输入密码登录 --> 社会保险 --> 城保缴费查询（养老保险缴费情况查询）
 
-###### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
+##### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
-###### 6. [国家企业信息公示系统](http://www.gsxt.gov.cn/index.html)：http://www.gsxt.gov.cn/index.html
+##### 6. [国家企业信息公示系统](http://www.gsxt.gov.cn/index.html)：http://www.gsxt.gov.cn/index.html
 
-###### 7. [一网通办地址](https://zwdtuser.sh.gov.cn/)：https://zwdtuser.sh.gov.cn/
+##### 7. [一网通办地址](https://zwdtuser.sh.gov.cn/)：https://zwdtuser.sh.gov.cn/
 
-###### 8. [居住证查询]( https://www.962222.net/)： https://www.962222.net/
+##### 8. [居住证查询]( https://www.962222.net/)： https://www.962222.net/
 
-###### 9. 居住证积分相关
+##### 9. 居住证积分相关
 > 1. [居住证积分申请系统（积分申请与查询）](http://jzzjf.rsj.sh.gov.cn/jzzjf/)：http://jzzjf.rsj.sh.gov.cn/jzzjf/
 >
 > 2. [《上海市居住证》积分情况查询](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/query_score.jsp)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/query_score.jsp
@@ -40,14 +40,14 @@
 >
 > 4. [浦东人才服务](http://www.pdrcfw.com/)：http://www.pdrcfw.com/
 
-###### 10. 居住证申报系统
+##### 10. 居住证申报系统
 > 1. [居住证申报系统](https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.jsp)：https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.jsp
 >
 > 2. [自助经办系统](http://ggfw.rsj.sh.gov.cn/)：http://ggfw.rsj.sh.gov.cn/
 
-###### 11. [上海公共服务平台]( http://rsj.sh.gov.cn/201712333/index.shtml)：http://rsj.sh.gov.cn/201712333/index.shtml
+##### 11. [上海公共服务平台]( http://rsj.sh.gov.cn/201712333/index.shtml)：http://rsj.sh.gov.cn/201712333/index.shtml
 
-###### 12. 相关政策
+##### 12. 相关政策
 > 1. [五年三倍有效期延至 有效期至 2022 年 10 月 31 日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
 >
 > 2. [国内人才引 沪人社力发〔2015〕41 号](http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0
@@ -56,7 +56,7 @@
 >
 > 4. [关于印发《持有〈上海市居住证〉人员申办本市常住户口办法实施细则》的通知沪人社规〔2020〕1 号](http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
 
-##### 专户注意事项
+#### 专户注意事项
 > 1.  户口迁入地，比如：顾村派出所/顾村镇派出所
 >
 > 2.  以职称申报的，请在申请报告公函内的个人信息处，补充申请人具体的岗位描述及工作内容。
