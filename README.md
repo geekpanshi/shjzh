@@ -48,7 +48,7 @@
 >>
 >> 上海人社 app 下载二维码
 >>
->> <img src="/pics/README/002-shrsapp.jpg" width="140" height="280" align=center></img>
+>> <img src="/pics/README/002-shrsapp.jpg" width="280" height="140" align=center></img>
 
 ##### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
