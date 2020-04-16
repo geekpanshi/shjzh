@@ -2,11 +2,6 @@
 
 ---
 
-> 加微信群二维码
-> ><img src="/配图/README/001-磐石如丝微信二维码.png" width="180" height="180" align=center></img>
-
----
-
 #### 居转户进度 —— 五年三倍
 > 加微信群二维码
 > ><img src="/pics/README/001-磐石如丝微信二维码.png" width="180" height="180" align=center></img>
