@@ -45,6 +45,10 @@
 > 2. 社保缴费基数查询
 >>
 >> 上海人社 app，流程：登录 --> 业务经办 --> （首次登录需要安装证书和设置密码） --> 输入密码登录 --> 社会保险 --> 城保缴费查询（养老保险缴费情况查询）
+>>
+>> 上海人社 app 下载二维码
+>>
+>> <img src="/pics/README/002-shrsapp.jpg" width="140" height="280" align=center></img>
 
 ##### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
