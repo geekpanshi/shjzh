@@ -48,7 +48,7 @@
 >>
 >> 上海人社 app 下载二维码
 >>
->> <img src="/pics/README/002-shrsapp1.jpg" width="320" height="150" align=center></img>
+>> <img src="/pics/README/002-shrsapp1.jpg" width="320" height="180" align=center></img>
 
 ##### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
@@ -111,3 +111,5 @@
 > 13. HR 填表时，户口迁出省市 是指户口本的 户籍所在地。
 >
 > 14. 税务局官网下载的《个人所得税纳税记录（原完税证明）》，**不需要**盖单位公章
+>
+> 15. 户口本的信息，尤其是婚姻状态记得修改成正确的，一般结婚的话，要改成“已婚”；身份证、居住证的地址和户口本上的要一致的。
