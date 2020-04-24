@@ -39,7 +39,7 @@
 > 2. [下](http://tieba.baidu.com/p/6299195426?red_tag=v1648826914) http://tieba.baidu.com/p/6299195426?red_tag=v1648826914
 
 ##### 3. 个税查询
-> 1. [2018 年及之前的个税查询](https://etax.shanghai.chinatax.gov.cn/)：https://etax.shanghai.chinatax.gov.cn/
+> 1. [2018 年及之前的个税查询](https://etax.shanghai.chinatax.gov.cn/wszx-web/bszm/apps/views/beforeLogin/indexBefore/pageIndex.html)：https://etax.shanghai.chinatax.gov.cn/wszx-web/bszm/apps/views/beforeLogin/indexBefore/pageIndex.html
 >
 > 2. [2019 年及以后的个税查询](https://its.shanghai.chinatax.gov.cn/)：https://its.shanghai.chinatax.gov.cn/
 
