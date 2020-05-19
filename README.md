@@ -12,7 +12,7 @@
 >
 > 1. [人事档案查询](http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg)： http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg
 >
-> 2. [上海人才档案受理预约](http://weixin.shrc.com.cn:8080/rcdasb//login.jsp)
+> 2. [上海人才档案受理预约](http://weixin.shrc.com.cn:8080/rcdasb//login.jsp)： http://weixin.shrc.com.cn:8080/rcdasb//login.jsp
 >
 > 3. 微信公众号关注：“上海人才”，登录查询。
 
