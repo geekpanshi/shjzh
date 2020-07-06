@@ -60,7 +60,7 @@
 >
 > 2. [自助经办系统](http://ggfw.rsj.sh.gov.cn/)：http://ggfw.rsj.sh.gov.cn/
 
-##### 11. [上海公共服务平台]( http://rsj.sh.gov.cn/201712333/index.shtml)：http://rsj.sh.gov.cn/201712333/index.shtml
+##### 11. [上海公共服务平台（查公示名单）](http://rsj.sh.gov.cn/index.html)：http://rsj.sh.gov.cn/index.html
 
 ##### 12. 相关政策
 > 1. [五年三倍有效期延至 有效期至 2022 年 10 月 31 日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
