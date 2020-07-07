@@ -303,10 +303,10 @@
 > 上海居住证积分满 72 分就可以落户，简直是最简单粗暴的落户方式了！应届生落户需要哪些条件呢？72 积分又是怎么来的呢？
 
 ##### 评分办法
-<img src="/pics/dafen_1.png" width="660" height="919" align=center></img>
-<img src="/pics/dafen_2.png" width="660" height="881" align=center></img>
-<img src="/pics/dafen_3.png" width="660" height="549" align=center></img>
-<img src="/pics/dafen_4.png" width="660" height="785" align=center></img>
+> <img src="/pics/dafen_1.png" width="660" height="919" align=center></img>
+> <img src="/pics/dafen_2.png" width="660" height="881" align=center></img>
+> <img src="/pics/dafen_3.png" width="660" height="549" align=center></img>
+> <img src="/pics/dafen_4.png" width="660" height="785" align=center></img>
 
 ##### 《通知》强调
 
