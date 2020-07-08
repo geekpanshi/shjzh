@@ -90,7 +90,9 @@
 
 ##### 11. [上海公共服务平台（查公示名单）](http://rsj.sh.gov.cn/index.html)：http://rsj.sh.gov.cn/index.html
 
-##### 12. 相关政策
+##### 12. [落户审批查询结果](https://rkcs.gaj.sh.gov.cn/rkbyw/zqz/queryReq/0)：https://rkcs.gaj.sh.gov.cn/rkbyw/zqz/queryReq/0
+
+##### 13. 相关政策
 > 1. [五年三倍有效期延至 有效期至 2022 年 10 月 31 日](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/zc5.jsp?from=groupmessage&isappinstalled=0
 >
 > 2. [国内人才引 沪人社力发〔2015〕41 号](http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0)：http://jzzjf.rsj.sh.gov.cn//jzzjf/pingfen/zc4.jsp?from=groupmessage&isappinstalled=0
@@ -98,6 +100,7 @@
 > 3. [持有〈上海市居住证〉人员申办本市常住户口办法实施细则 沪府规〔2019〕45 号](https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：https://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
 >
 > 4. [关于印发《持有〈上海市居住证〉人员申办本市常住户口办法实施细则》的通知沪人社规〔2020〕1 号](http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml)：http://rsj.sh.gov.cn/201712333/xxgk/flfg/gfxwj/rsrc/01/202001/t20200123_1302961.shtml
+
 
 #### 专户注意事项
 
@@ -195,7 +198,7 @@
 > - [x] 10. 2020-06-29 公示中（公示期 7 个自然日，人才引进 15 个自然日）；
 > - [x] 11. 2020-07-06 公示通过，等待批件打印；
 > - [x] 12. 2020-07-06 批件打印中；
-> - [x] 13. 2020-07-06 批件打印完毕；
+> - [x] 13. 2020-07-06 批件打印完毕（[落户审批查询结果](https://rkcs.gaj.sh.gov.cn/rkbyw/zqz/queryReq/0)）；
 > - [ ] 14. 2020-05-14 办结。
 
 ##### 居转户办理记录
