@@ -112,10 +112,10 @@
 
 ##### 上海市历年社保平均工资一览
 
-> <img src="/上海市历年平均工资以及居转户社保个税对比要求.png"  align=center></img>
+> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资以及居转户社保个税对比要求.png"  align=center></img>
 
 ##### 居转户流程一览
-> <img src="/一网通办-居转户审批流程及状态一览-20200301.jpg"  align=center></img>
+> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/一网通办-居转户审批流程及状态一览-20200301.jpg"  align=center></img>
 
 #### 相关网址
 
@@ -147,7 +147,7 @@
 >>
 >> 上海人社 app 下载二维码
 >>
->> <img src="/pics/README/002-shrsapp1.jpg" width="320" height="180" align=center></img>
+>> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/README/002-shrsapp1.jpg" width="320" height="180" align=center></img>
 
 ##### 5. [浦东人才服务网-居住证转户籍](http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310)：http://www.pdrcfw.com/ServiceIndex.aspx?PageType=3&ServiceType=310
 
@@ -228,7 +228,7 @@
 ##### 网提材料清单
 > 居转户材料清单
 >>
->> <img src="/pics/居转户材料清单.jpg"  align=center></img>
+>> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/居转户材料清单.jpg"  align=center></img>
 >
 > 居转户承诺与授权文件
 >
@@ -259,7 +259,7 @@
 > 11. 落户是自己的房子，假如房产证有多人，需要其他人签署一个 [同意落户承诺书模板](/同意落户承诺书模板.doc)。
 
 ###### 现场交材料清单
-> <img src="/pics/现场交材料清单.png"  align=center></img>
+> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/现场交材料清单.png"  align=center></img>
 
 #### 我的居转户流程一览
 
