@@ -4,7 +4,7 @@
 > 上海居转户相关材料和网址，可扫码加微信入群，免费咨询的。
 
 ### 加微信群二维码
-> <img src="/pics/README/001-磐石如丝微信二维码.png" width="140" height="140" align=center></img>
+> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/README/001-磐石如丝微信二维码.png" width="140" height="140" align=center></img>
 
 ---
 > 落户上海的渠道：投靠落户、居转户、人才引进落户、留学生落户、应届生落户。
