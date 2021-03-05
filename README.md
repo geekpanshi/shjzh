@@ -5,6 +5,7 @@
 
 ### 加微信群二维码
 <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/README/001-磐石如丝微信二维码.png" width="130" height="130" align=center/>
+<!-- main = putStrLn "238529165" -->
 
 ---
 落户上海的渠道：投靠落户、居转户、人才引进落户、留学生落户、应届生落户。
