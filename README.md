@@ -1,4 +1,4 @@
-## 上海落户一览（居转户、人才引进渠道、应届生打分落户）
+## 上海落户政策一览
 
 ---
 上海居转户相关材料和网址，可扫码加微信入群，免费咨询的。
@@ -8,7 +8,10 @@
 ![](https://img.shields.io/badge/%E4%B8%8A%E6%B5%B7-%E8%90%BD%E6%88%B7-blue)
 ![](https://img.shields.io/badge/%E4%B8%8A%E6%B5%B7-%E5%B1%85%E8%BD%AC%E6%88%B7-orange)
 ![](https://img.shields.io/badge/-%E4%BA%94%E5%A4%A7%E6%96%B0%E5%9F%8E-yellowgreen)
-![](https://img.shields.io/badge/-%E5%BC%A0%E6%B1%9F%E7%A7%91%E5%AD%A6%E5%9F%8E-red)<br>
+![](https://img.shields.io/badge/-%E5%BC%A0%E6%B1%9F%E7%A7%91%E5%AD%A6%E5%9F%8E-red)
+![](https://img.shields.io/badge/-%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B-green)
+![](https://img.shields.io/badge/-%E6%8A%95%E9%9D%A0%E8%90%BD%E6%88%B7-lightgrey)
+![](https://img.shields.io/badge/%E5%BA%94%E5%B1%8A%E7%94%9F-%E6%89%93%E5%88%86%E8%90%BD%E6%88%B7-yellow)<br>
 
 ### 目录
 - [附件](#附件)<br>
