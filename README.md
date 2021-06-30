@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/%E5%BA%94%E5%B1%8A%E7%94%9F-%E6%89%93%E5%88%86%E8%90%BD%E6%88%B7-yellow)<br>
 
 ### 目录
+- [各区初审复核周期](#各区初审复核周期)<br>
 - [附件](#附件)<br>
 - [投靠落户](#投靠落户)<br>
 - [留学生落户上海](#留学生落户上海)<br>
@@ -27,6 +28,11 @@
 
 ---
 落户上海的渠道：投靠落户、居转户、人才引进落户、留学生落户、应届生落户。
+
+
+### 各区初审复核周期
+>
+> <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/pics/各区审核周期.jpg"  align=center/>
 
 ### 附件
 
