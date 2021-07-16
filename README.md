@@ -162,66 +162,8 @@
 > **53：居住证 5 年社保 4 年内累计 36 个月达到 3 倍社保**。
 
 ##### 上海市历年社保平均工资数据（2005 - 至今）
-<table>
-    <tr align="center">
-        <th>序号</th><th>工资报税年度</th><th>社保缴费年度</th><th>1 倍社保基数</th><th>1.3 倍社保基数</th><th>1.5 倍社保基数</th><th>2 倍社保基数</th><th>3 倍社保基数</th><th>增速 %</th>
-    </tr>
-    <tr align="center">
-        <td>1</td><td>2005.01 - 2005.12</td><td>2006.04 - 2007.03</td><td>2235.00</td><td>2905.50</td><td>3352.50</td><td>4470.00</td><td>6705.00</td><td></td>
-  </tr>
-    <tr align="center">
-        <td>2</td><td>2006.01 - 2006.12</td><td>2007.04 - 2008.03</td><td>2464.00</td><td>3203.20</td><td>3696.00</td><td>4928.00</td><td>7392.00</td><td>10.24</td>
-    </tr>
-    <tr align="center">
-        <td>3</td><td>2007.01 - 2007.12</td><td>2007.04 - 2008.03</td><td>2892.00</td><td>3759.60</td><td>4338.00</td><td>5784.00</td><td>8676.00</td><td>17.37</td>
-    </tr>
-    <tr align="center">
-        <td>4</td><td>2008.01 - 2008.12</td><td>2008.04 - 2009.03</td><td>3292.00</td><td>4279.60</td><td>4938.99</td><td>6584.00</td><td>9876.00</td><td>13.83</td>
-    </tr>
-    <tr align="center">
-        <td>5</td><td>2009.01 - 2009.12</td><td>2009.04 - 2010.03</td><td>3566.00</td><td>4635.80</td><td>5349.00</td><td>7132.00</td><td>10698.00</td><td>8.32</td>
-    </tr>
-    <tr align="center">
-        <td>6</td><td>2010.01 - 2010.12</td><td>2010.04 - 2011.03</td><td>3896.00</td><td>5064.80</td><td>5844.00</td><td>7792.00</td><td>11688.00</td><td>9.25</td>
-    </tr>
-    <tr align="center">
-        <td>7</td><td>2011.01 - 2011.12</td><td>2011.04 - 2012.03</td><td>4331.00</td><td>5630.30</td><td>6496.50</td><td>8662.00</td><td>12993.00</td><td>11.17</td>
-    </tr>
-    <tr align="center">
-        <td>8</td><td>2012.01 - 2012.12</td><td>2012.04 - 2013.03</td><td>4692.00</td><td>6099.60</td><td>7038.00</td><td>9384.00</td><td>14076.00</td><td>8.34</td>
-    </tr>
-    <tr align="center">
-        <td>9</td><td>2013.01 - 2013.12</td><td>2013.04 - 2014.03</td><td>5036.00</td><td>6546.80</td><td>7554.00</td><td>10072.00</td><td>15108.00</td><td>7.33</td>
-    </tr>
-    <tr align="center">
-        <td>10</td><td>2014.01 - 2014.12</td><td>2015.04 - 2016.03</td><td>5451.00</td><td>7086.30</td><td>8176.50</td><td>10902.00</td><td>16353.00</td><td>8.24</td>
-    </tr>
-    <tr align="center">
-        <td>11</td><td>2015.01 - 2015.12</td><td>2016.04 - 2017.03</td><td>5939.00</td><td>7720.70</td><td>8908.50</td><td>11878.00</td><td>17817.00</td><td>8.95</td>
-    </tr>
-    <tr align="center">
-        <td>12</td><td>2016.01 - 2016.12</td><td>2017.04 - 2018.03</td><td>6504.00</td><td>8455.20</td><td>9756.00</td><td>13008.00</td><td>19512.00</td><td>9.51</td>
-    </tr>
-    <tr align="center">
-        <td>13</td><td>2017.01 - 2017.12</td><td>2018.04 - 2019.03</td><td>7132.00</td><td>9271.60</td><td>10698.00</td><td>14264.00</td><td>21396.00</td><td>9.66</td>
-    </tr>
-    <tr align="center">
-        <td rowspan="2">14</td><td>2018.01 - 2018.09</td><td>2019.04 - 2008.03</td><td>7832.00</td><td>10181.60</td><td>11748.00</td><td>15664.00</td><td>23496.00</td><td>9.81</td>
-    </tr>
-    <tr align="center">
-        <td>2018.10 - 2018.12</td><td>2019.11 - 2020.06</td><td>8211.00</td><td>10674.30</td><td>12316.50</td><td>16422.00</td><td>24633.00</td><td>4.84</td>
-    </tr>
-    <tr align="center">
-        <td>15</td><td>2019.01 - 2019.12</td><td>2020.07 - 2021.06</td><td>9339.00</td><td>12140.70</td><td>14008.50</td><td>18678.00</td><td>28017.00</td><td>13.74</td>
-    </tr>
-    <tr align="center">
-        <td>16</td><td>2020.01 - 2020.12</td><td>2021.07 - 2022.06</td><td>10338.00</td><td>13439.40</td><td>15507.00</td><td>20676.00</td><td>31014.00</td><td>10.70</td>
-    </tr>
-    <tr align="center">
-        <td>17</td><td>2021.01 - 2021.12</td><td>2022.07 - 2023.06</td><td></td><td></td><td></td><td></td><td></td><td></td>
-    </tr>
-</table>
-
+<img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资始于2005-.png"  align=center/>
+>
 > [上海市历年平均工资以及居转户社保个税对比要求](https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资以及居转户社保个税对比要求.png)
 
 ##### 居转户流程一览
