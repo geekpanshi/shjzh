@@ -163,8 +163,8 @@
 
 ##### 上海市历年社保平均工资数据（2005 - 至今）
 <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资始于2005-.png"  align=center/>
->
-> [上海市历年平均工资以及居转户社保个税对比要求](https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资以及居转户社保个税对比要求.png)
+
+[上海市历年平均工资以及居转户社保个税对比要求](https://raw.githubusercontent.com/geekpanshi/shjzh/master/上海市历年平均工资以及居转户社保个税对比要求.png)
 
 ##### 居转户流程一览
 <img src="https://raw.githubusercontent.com/geekpanshi/shjzh/master/一网通办-居转户审批流程及状态一览-20200301.jpg"  align=center/>
